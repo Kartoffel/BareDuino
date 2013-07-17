@@ -1,10 +1,9 @@
 BareDuino
 ===============
-
-## About ##
 This repository contains the design (and other relevant) files for all the released BareDuino's.
 Please visit this website for more information ----> http://www.niekproductions.com/
 
+## License ##
 All of the files in this repository are released under the BSD license.
 Copyright NiekProductions (c) 2013, All rights reserved.
 
